@@ -1,0 +1,5 @@
+name: 'INS Wistia Integration'
+type: module
+description: 'Wistia integration for video pages'
+core_version_requirement: ^8.8 || ^9 || ^10
+package: 'INS'

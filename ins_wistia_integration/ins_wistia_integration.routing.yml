@@ -1,0 +1,9 @@
+ins_wistia_integration.ins_wistia_integration_config_form:
+  path: '/admin/config/system/ins-wistia-integration-config'
+  defaults:
+    _form: '\Drupal\ins_wistia_integration\Form\WistiaAPIConfigForm'
+    _title: 'INS Wistia Integration Configuration'
+  requirements:
+    _permission: 'configure ins wistia integration'
+  options:
+    _admin_route: TRUE

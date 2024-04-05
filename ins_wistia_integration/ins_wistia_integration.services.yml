@@ -1,0 +1,4 @@
+services:
+  ins_wistia_integration.wistia_service:
+    class: Drupal\ins_wistia_integration\Service\WistiaService
+    arguments: ['@config.factory', '@language_manager']

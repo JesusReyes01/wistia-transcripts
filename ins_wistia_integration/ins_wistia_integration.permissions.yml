@@ -1,0 +1,3 @@
+configure ins wistia integration:
+  title: 'Configure INS wistia integration.'
+  restrict access: true

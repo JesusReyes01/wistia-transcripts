@@ -1,0 +1,6 @@
+ins_wistia_integration.ins_wistia_integration_config_form:
+  title: 'INS Wistia Integration Settings'
+  parent: system.admin_config_system
+  description: 'Manage INS Wistia Integration Settings'
+  route_name: ins_wistia_integration.ins_wistia_integration_config_form
+  weight: 50

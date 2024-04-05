@@ -1,0 +1,8 @@
+ins_wistia_integration:
+  version: 1.x
+  dependencies:
+    - core/jquery
+    - core/js-cookie
+    - core/once
+    - core/drupal
+    - core/drupalSettings
